@@ -1,0 +1,22 @@
+body {
+	background: #ececec;
+}
+
+html, body, .full-height {
+	height: 100%;
+}
+
+img {
+	max-width: 100%;
+}
+
+.dtable {
+	display: table;
+	text-align: center;
+	width: 100%;
+}
+
+.tcell {
+	display: table-cell;
+	vertical-align: middle;
+}
